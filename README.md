@@ -9,9 +9,9 @@ Note: GitHub does not render interactive Plotly charts directly. To view, rotate
 
 
 ## Technologies Used
-Python(Pandas, NumPy)
-Visualizations: Matplotlib, Seaborn, Plotly (3D)
-Machine Learning: Scikit-Learn(Linear Regression)
+* **Python(Pandas, NumPy)**
+* **Visualizations:** Matplotlib, Seaborn, Plotly (3D)
+* **Machine Learning:** Scikit-Learn(Linear Regression)
 
 
 ## How to Run
